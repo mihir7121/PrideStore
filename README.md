@@ -28,6 +28,19 @@ To make the app we had to basically learn as well as apply what we learnt, so we
 
 ## Project Gallery
 
+Figma Design File - [Pride Store](https://www.figma.com/file/OF9DcqPII7f5QpUR7hIN7B/EmoFy?node-id=0%3A1)
+
+</br>
+<p align="center">
+<img src="https://github.com/mihir7121/PrideStore/blob/main/Design/1.png" alt="drawing" width="700"/>
+</p>
+<p align="center">
+<img src="https://github.com/mihir7121/PrideStore/blob/main/Design/2.png" alt="drawing" width="700"/>
+</p>
+<p align="center">
+<img src="https://github.com/mihir7121/PrideStore/blob/main/Design/3.png" alt="drawing" width="700"/>
+</p>
+
 ## What's next for Pride Store🚀
 Pride Store was built to support the LGBTQ+ community and we are planning to bring in more categories such as books by writers from the community and basically building things that would help in making people from the community more discoverable. One of our goals is to make the app production ready and post in playstore so that it is more accesible to the people.
 
