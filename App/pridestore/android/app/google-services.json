@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837742311609",
+    "project_id": "pridestore-51f78",
+    "storage_bucket": "pridestore-51f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837742311609:android:07f924a8ab09e27f1d0368",
+        "android_client_info": {
+          "package_name": "com.example.pridestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837742311609-8o38pv2etvg2df9gkk6kajfqt1oeil6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2oRYrCOSg38eJChklkcVM8XweRV4_2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837742311609-8o38pv2etvg2df9gkk6kajfqt1oeil6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
