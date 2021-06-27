@@ -13,6 +13,7 @@ Pride Store is an online Merch store that was built as an Mobile Application. A 
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 </br>
 The whole application is built using Flutter and Firebase. We started off by creating our prototype on Figma. The goal was to build something that would make it easier for people to use the application and wanted to make it as intuitive as possible. Once we had our designs ready, we started working on our application. We built out all the front end from scratch using Dart and Flutter and for things such as authentication or taking designs from users, we used Firebase and Firestore as Backend.
 
