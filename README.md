@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AM1CODES/EmoFy-GardenHacks/blob/main/Readme-Assets/Logo-Readme.png" alt="drawing" width="400"/>
+<img src="https://github.com/mihir7121/PrideStore/blob/main/Design/ReadmeLogo.png" alt="drawing" width="300"/>
 </p>
 
 Each community/group that is formed is a result of connection  between the people. People from across the world are part of different communities and they come together every year to support a cause, to spread love and have a good time. The LGBTQ+ community is no different. A group of amazing human beings who come together every year to raise awareness about the cause they are fighting for and to spread love. We see parades and big carnivals every year and we see people from different parts of the world joining in the celebration. Even after all this, there is still less education about the whole movement and what it stands for in different parts of the world. Moreover, the opportunities for the artists from the community are usually narrowed down in lots of places. We wish to tackle all these problems through our solution. We wish to create awareness about the movement and help the people from the community in spreading awareness about this whole movement as well as give the designers and artists from the community a platform to showcase their art and earn by doing so .
