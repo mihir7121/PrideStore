@@ -29,3 +29,9 @@ To make the app we had to basically learn as well as apply what we learnt, so we
 
 ## What's next for Pride Store🚀
 Pride Store was built to support the LGBTQ+ community and we are planning to bring in more categories such as books by writers from the community and basically building things that would help in making people from the community more discoverable. One of our goals is to make the app production ready and post in playstore so that it is more accesible to the people.
+
+# Creators
+This project was created for PrideHacks weekend hack hosted by MLH. Here are the contributors - 
+  
+| [<img alt="AM1CODES" src="https://media-exp1.licdn.com/dms/image/C4E03AQHh9QSUVSHezg/profile-displayphoto-shrink_200_200/0/1609837566451?e=1629936000&v=beta&t=71K1NDQUXlANObzGkH_1KsA4zoucwv-GQP-f1iOAryc" width="115"><br><sub>Aayush Mishra</sub>](https://github.com/AM1CODES) | [<img alt="mihir7121" src="https://avatars.githubusercontent.com/u/63261772?v=4" width="115"><br><sub>Mihir Nikam</sub>](https://github.com/mihir7121) | [<img alt="skully-coder" src="https://media-exp1.licdn.com/dms/image/C5603AQF-0cw9kKwpeg/profile-displayphoto-shrink_200_200/0/1597752308506?e=1630540800&v=beta&t=3_wv8rt3tfroKmGFycGgPdk-oBQ0moIwLQjNQEnnmdc" width="115"><br><sub>Abhinav Agrawal</sub>](https://github.com/skully-coder) | [<img alt="shantanuchawan" src="https://avatars.githubusercontent.com/u/58027701?s=120&v=4" width="115"><br><sub>Shantanu Chawan</sub>](https://github.com/shantanuchawan)|
+| :---: |:---: |:---: |:---:|
