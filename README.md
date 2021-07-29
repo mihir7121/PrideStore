@@ -32,7 +32,7 @@ To make the app we had to basically learn as well as apply what we learnt, so we
 
 ## Project Gallery
 
-Figma Design File - [Pride Store](https://www.figma.com/file/OF9DcqPII7f5QpUR7hIN7B/EmoFy?node-id=0%3A1)
+Figma Design File - [Pride Store](https://www.figma.com/file/en8knjX6iaa9grhlcwWtvL/PrideHacks)
 
 </br>
 <p align="center">
